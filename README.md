@@ -1,9 +1,9 @@
 <html>
-  <head>
-    <title> welcome to my webpage </title>
-  </head>
-  <body bgcolor='pink'>
-  
-    
-  </body>
+    <head>
+        <title>My web page</title>
+    </head>
+    <body>
+        <h1>Hello, world!</h1>
+        <p>This is my first web page.</p>
+    </body>
 </html>
