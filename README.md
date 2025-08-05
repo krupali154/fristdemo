@@ -4,7 +4,6 @@
     </head>
     <body>
         <h1>Hello, world!</h1>
-        <p>This is my first web page.</p>
-        <img scr=" D:\krupali\images.jpg">
+        <p>This is my first web page.</p>    
     </body>
 </html>
